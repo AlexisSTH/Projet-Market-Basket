@@ -16,7 +16,7 @@
 
 ---
 
-[Contexte](#-contexte) · [Dataset](#-dataset) · [Résultats](#-résultats-clés) · [Structure](#-structure-du-projet) · [Installation](#-installation) · [Méthodologie](#-méthodologie)
+[Contexte](#-contexte) · [Dataset](#-dataset) · [Résultats](#-résultats-clés) · [Méthodologie](#-méthodologie)
 
 </div>
 
