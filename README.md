@@ -10,7 +10,7 @@
 ![mlxtend](https://img.shields.io/badge/mlxtend-Apriori-orange?style=flat)
 ![Status](https://img.shields.io/badge/Status-Terminé-00e676?style=flat)
 
-<img src="visual/linkedin_banner_mba.png" width="700">
+
 
 *Analyse de 3.4 millions de commandes pour identifier les associations produits et générer des recommandations business actionnables.*
 
